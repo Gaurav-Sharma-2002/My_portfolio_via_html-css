@@ -151,11 +151,11 @@ a {
   }
 
   .above-cloud {
-    right:300px
+    right:200px
   }
 
   .below-cloud {
     top:100px;
-    left: 300px;
+    left: 200px;
   }
 }
